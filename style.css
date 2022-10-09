@@ -1,0 +1,29 @@
+.logo {
+    width: 120px;
+}
+h1 {
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.linkedlist {
+    background:url(wood-board-2.png);
+}
+footer {
+    background-color: azure;
+}
+th, td {
+    font-size: 9px;
+}
+form {
+    color: white;
+    background:url(wood-board-2.png);
+}
+
+@media (min-width: 768px) {
+    h1 {
+        font-size: 50px;
+    }
+    th, td {
+        font-size: 15px;
+    }
+}
